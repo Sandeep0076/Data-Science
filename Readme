@@ -1,6 +1,7 @@
-
 # This Repository, contains different projects. So far I have added project related:
 
-*	Time series Analaysis(Prediction steel price) Where I analysed the dataset, relationship between univariate and Multivariate variable, effects of them on final price 
+* Time series Analaysis(Prediction steel price) Where I analysed the dataset, relationship between univariate and Multivariate variable, effects of them on final price 
   and finally implemented different ML/DL algorithms comparing their accuracies.
 * Anomaly detection (Credit Card fraud detetcion) where I tried different ML/DL algorithmes to create a balance between highest accuracy and recall.
+
+
