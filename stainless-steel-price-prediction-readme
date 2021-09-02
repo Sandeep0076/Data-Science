@@ -1,0 +1,9 @@
+
+# Predict prices of Stainless-steel for the time period 3 months and 6 months Tasks:
+
+* Conduct exploratory data analysis and report the insights
+
+* Forecast the prices of stainless-steel for the given time period(s)
+
+* Provide insights on how your model made the prediction
+* Use the following evaluation criteria for model selection: Mean Absolute Percentage Error (MAPE)
